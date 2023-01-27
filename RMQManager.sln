@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RMQManager", "RMQManager\RMQManager.csproj", "{7FBB46DD-2B44-406C-AC10-B261A035A5EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{22C76C76-76BF-47D0-9BAA-1E07D041F78A}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FBB46DD-2B44-406C-AC10-B261A035A5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBB46DD-2B44-406C-AC10-B261A035A5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBB46DD-2B44-406C-AC10-B261A035A5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBB46DD-2B44-406C-AC10-B261A035A5EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C184B907-0EE8-4A45-B029-6874F291EF1A}
+	EndGlobalSection
+EndGlobal
